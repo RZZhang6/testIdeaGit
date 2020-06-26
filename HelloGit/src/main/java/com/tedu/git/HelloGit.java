@@ -1,0 +1,12 @@
+package com.tedu.git;
+
+/**
+ * @author RZZhang
+ * @create 2020-06-26 15:19
+ */
+public class HelloGit {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
